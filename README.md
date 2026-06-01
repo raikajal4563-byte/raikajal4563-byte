@@ -1,5 +1,5 @@
 ## Hi there 👋
- I am** Kajal Rai**, a passionate Java & Full-stack Developer 📁 
+ I am **Kajal Rai**, a passionate Java & Full-stack Developer 📁 
  This profile is where I share my projects, experiences & things I'm currently working on ✨
  Everything here is built from scratch — no copy-paste, no templates, just pure hard work
  ___________________________________________________________________________________________________________________________
@@ -7,7 +7,7 @@
   Languages → C, Java, JavaScript 
   Frontend → HTML5, CSS3, JavaScript
   __________________________________________________________________________________________________________________________
- ** 🔧 Embedded Systems Project **
+ **🔧 Embedded Systems Project**
  Project                                     Description
  ____________________________________________________________________________________________________
  🚗 Line Follower Robot:            An autonomous robot that follows a line path using IR sensors
